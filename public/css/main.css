@@ -1,0 +1,17 @@
+body{
+  background-color:#1a2851;
+}
+main{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+form{
+  display:flex;
+  flex-direction:column;
+}
+.content{
+  width:40%;
+}
